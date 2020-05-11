@@ -1,6 +1,6 @@
 # Method Two
 
-In a command prompt, PowerShell Window, Terminal or Python Window import Method1 and run the commands as follows:
+In a command prompt, PowerShell Window, Terminal or Python Window import Method2 and run the commands as follows:
 
 - Usage:
 
