@@ -1,4 +1,4 @@
-### Credit to Method 4 goes to this author: https://gist.github.com/sparkstar
+### Credit to Method 3 goes to this author: https://gist.github.com/sparkstar
 import os, time, numpy, PIL
 from PIL import Image
  
